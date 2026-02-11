@@ -81,6 +81,11 @@ Overall, Azure Durable Functions represent incremental progress rather than a fu
 Therefore, Durable Functions align more with practical engineering trade-offs than with the transformative cloud programming model that Hellerstein et al. (2019) proposed. They make serverless more usable for workflows, but they don't unlock the cloud's full potential for data-rich, distributed innovation.
 
 ---
+## AI Disclosure Statement
+
+AI tools were used to help summarize the research paper, structure the assignment, and improve clarity and organization. All analysis and conclusions are based on the cited sources.
+
+---
 
 ## References
 
